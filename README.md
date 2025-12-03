@@ -17,8 +17,8 @@ FlourishAI is a multi-agent system designed to provide personalized, accessible 
 
 The system is built using **Google's Agent Development Kit (ADK)** and **Gemini 2.5**.
 
-| Agent | Role |
-| :--- | :--- | :--- |
+| Agent | Role |  
+| :--- | :--- |
 | **Orchestrator** | Routes traffic & manages state | 
 | **User Profiler** | Interviews users & builds JSON profiles | 
 | **Curriculum** | Generates lessons & researches topics | 
