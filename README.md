@@ -26,7 +26,6 @@ The system is built using **Google's Agent Development Kit (ADK)** and **Gemini 
 | **Assessment** | Generates quizzes & mock exams | 
 | **Vision** | Analyzes images, handwriting and also creates visual learning aids|
 
-![Screenshot 2025-12-03 185950](https://github.com/user-attachments/assets/3e16d3cc-c418-4ea7-9225-ab869c3c3c29)
 
 https://youtu.be/J_pj3Huxkig
 
