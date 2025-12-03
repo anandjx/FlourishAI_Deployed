@@ -1,0 +1,5 @@
+# Google Agent Development Kit (ADK) and Core AI
+google-adk                      
+google-generativeai            
+google-search-results          
+python-dotenv                  
