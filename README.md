@@ -27,7 +27,9 @@ The system is built using **Google's Agent Development Kit (ADK)** and **Gemini 
 | **Vision** | Analyzes images, handwriting and also creates visual learning aids|
 
 
-https://youtu.be/J_pj3Huxkig
+
 
 
 ![Screenshot 2025-12-03 185950](https://github.com/user-attachments/assets/a8033c7f-7b60-4eb3-8c5b-f5c1e731ed4e)
+
+https://youtu.be/sr29LJVjGLc
